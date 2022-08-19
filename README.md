@@ -1,0 +1,1 @@
+This repository is dedicated to learning a new topic for me about GraphQL. I hope this will help me a lot in my future projects
